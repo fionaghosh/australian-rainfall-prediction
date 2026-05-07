@@ -42,7 +42,6 @@ and a fully deployed interactive dashboard.
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 ```plaintext
 australian-rainfall-prediction/
