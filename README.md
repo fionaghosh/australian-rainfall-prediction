@@ -49,6 +49,7 @@ australian-rainfall-prediction/
 ├── app.py              # Streamlit dashboard (5 pages)
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
+└── australian_rainfall_prediction.ipynb        ← Full analysis notebook
 ```
 
 ## 🔍 Project Sections
