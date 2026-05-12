@@ -373,4 +373,4 @@ elif page == " Model Performance":
         'Mean SHAP Value' : [1.103,0.613,0.454,0.264,0.219,
                              0.213,0.197,0.193,0.152,0.148]
     })
-    st.dataframe(shap_df, use_container_width=True)
+    st.dataframe(shap_df.set_index('Rank'), use_container_width=True)
